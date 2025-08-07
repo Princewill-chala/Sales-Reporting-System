@@ -7,7 +7,7 @@
 - **Power BI** – For interactive data visualizations -
 - **SQL** – For data extraction, transformation, and aggregation
 ## Skills Demonstrated
-***combining tables to show customer name and products***
+(i) ***combining tables to show customer name and products***
 ```bash
 select customer_name, product_name 
 from customers
@@ -16,6 +16,6 @@ on customers.customer_id = orders.customer_id
 inner join products
 on products.product_id = orders.product_id
 ```
-![
+![customer_product](customer_by_product.png)
 
 
