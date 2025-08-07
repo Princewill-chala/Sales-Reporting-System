@@ -1,4 +1,5 @@
 # Sales-Reporting-System
+![image](sales_reporting_system.png)
  A data analysis project focused on customers, products, and orders using PostgreSQL for database creation and SQL queries. Visualized insights with Power BI to support sales reporting and business decision-making.
 ## Problem Statement
  Businesses frequently find it challenging to extract actionable insights from disjointed sales data. This project offers a streamlined system for analyzing customer behavior, product performance, and order trends, facilitating informed decision-making.
