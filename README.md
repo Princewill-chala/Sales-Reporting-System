@@ -6,7 +6,8 @@
 - **PostgreSQL** – For database creation and querying
 - **Power BI** – For interactive data visualizations -
 - **SQL** – For data extraction, transformation, and aggregation
-
+## Visualization
+![visualization](sales_visualization.png)  
 ## Skills Demonstrated
 (i) ***combining tables to show customer name and products:***
 ```bash
@@ -48,6 +49,8 @@ group by customer_name
 -  Target repeat buyers to increase customer value
 ## Conclusion
 This project illustrates comprehensive data management, covering everything from SQL-based data modeling in PostgreSQL to generating valuable business insights with Power BI. It acts as a fundamental sales analytics solution for any product-driven organization.
+
+
 
 
 
